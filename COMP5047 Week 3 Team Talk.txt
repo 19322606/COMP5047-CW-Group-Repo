@@ -1,0 +1,5 @@
+COMP5047 Week 3 Team Talk
+
+- All attended
+- We looked over each others work to find any areas for improvement.
+- We uploaded the quality requirements to Git
